@@ -1,0 +1,16 @@
+{
+  "NODE_ENV": "default",
+  "API_BASE": "/api/v1",
+  "APP_NAME": "CRUD",
+  "PORT": "4042",
+  "LOGGER": {
+    "LEVEL": "debug"
+  },
+  "MYSQL": {
+    "USERNAME": "luke",
+    "PASSWORD": "Luke@290520",
+    "HOST": "127.0.0.1",
+    "PORT": "3306",
+    "DB": "example"
+  }
+}

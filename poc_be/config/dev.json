@@ -1,0 +1,9 @@
+{
+  "NODE_ENV": "dev",
+  "API_BASE": "/api/holderwallet",
+  "APP_NAME": "Holder Wallet Service",
+  "PORT": "8080",
+  "LOGGER": {
+      "LEVEL": "info"
+  }
+}

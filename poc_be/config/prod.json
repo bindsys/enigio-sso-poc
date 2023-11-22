@@ -1,0 +1,6 @@
+{
+    "NODE_ENV": "prod",
+    "LOGGER": {
+      "LEVEL": "info"
+    }
+}
